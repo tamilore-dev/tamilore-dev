@@ -51,8 +51,8 @@ My goal is simple: build reliable systems, automate the boring parts, and grow i
   <img src="https://streak-stats.demolab.com?user=tamilore-dev&theme=dark&hide_border=true" alt="GitHub streak stats">
 </p>
 
-## 📈 Activity Graph
+## 💻 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamilore-dev&theme=github-dark&hide_border=true" alt="Contribution graph" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilore-dev&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top languages">
 </p>
