@@ -18,13 +18,33 @@
 
 **Tamilore** here, a final-year Computer Engineering student focused on DevOps and cloud engineering.
 
-I enjoy automating things with Bash and Python, and I run a homelab to practice virtualization, containers and configuration management.
+What I'm working on right now:
 
-Currently I'm learning **Azure, Docker and Ansible**, while going deeper into **Linux system administration**.
+- A **KVM/QEMU homelab** with Rocky and Ubuntu VMs, wired into **GNS3** network topologies
+- **Docker Compose** labs that explore how containers talk to each other
+- **Ansible** playbooks to configure those VMs
+- **Bash and Python** scripts for Linux system administration, on a Fedora daily driver
 
-My goal is simple: build reliable systems, automate the boring parts, and grow into a cloud engineer.
+I learn by building small labs, breaking them, and writing down what went wrong.
 
 <br clear="right">
+
+## 📌 Projects
+
+| Project | What it is |
+|---|---|
+| [miniflux-lab](https://github.com/tamilore-dev/miniflux-lab) | Miniflux RSS reader and PostgreSQL on Docker Compose, a container networking lab |
+| [gns-kvm-lab](https://github.com/tamilore-dev/gns-kvm-lab) | Ubuntu and Rocky VMs on KVM, joined through a GNS3 switch |
+| [tcp-socket-lab](https://github.com/tamilore-dev/tcp-socket-lab) | Python TCP client and server in two containers, with port-clash troubleshooting |
+| [server-stats](https://github.com/tamilore-dev/server-stats) | Bash script showing CPU, memory, disk and busiest processes |
+| [log_archiver](https://github.com/tamilore-dev/log_archiver) | Bash tool that archives logs into dated `tar.gz` backups |
+| [disk-hogs](https://github.com/tamilore-dev/disk-hogs) | Python CLI that lists the largest files in a directory |
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,linux,bash,azure,docker,ansible" alt="Tech stack">
+</p>
 
 ## 🤝 Connect
 
@@ -33,16 +53,6 @@ My goal is simple: build reliable systems, automate the boring parts, and grow i
   <a href="https://www.linkedin.com/in/tamilore-balogun"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:tamilorebalogun@proton.me"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"></a>
 </p>
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,linux,bash,azure,docker,ansible" alt="Tech stack">
-</p>
-
-## 📌 Featured Project
-
-**[tamilore-dev / server-stats](https://github.com/tamilore-dev/server-stats)**: a Bash script that prints a quick snapshot of a Linux server's health: CPU, memory, disk and the busiest processes. Part of the roadmap.sh Server Stats project.
 
 ## 📊 GitHub Stats
 
